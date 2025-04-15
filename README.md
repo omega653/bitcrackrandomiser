@@ -320,7 +320,7 @@ status // [workerStarted, workerExited, rangeScanned, reachedOfKeySpace, keyFoun
 hex // Scanned HEX value
 privatekey // Private key if that found
 targetpuzzle // Which puzzle is being scanned
-workername // Worker name [worker1039]
+workername // Worker name nwafor [worker1039]
 ```
 
 I wrote a sample PHP script to get the data. It sends info to Telegram.
